@@ -1,0 +1,28 @@
+.menu{
+    position: fixed;
+    bottom: 0px;
+    background: #131A1F;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: gray;
+    align-items: center;
+    padding: 4px 14px;
+    box-sizing: border-box;
+}
+.menu p{
+    padding: 6px;
+    margin: 0px;
+    font-weight: bold;
+}
+.menu span{
+    font-size: 32px;
+}
+
+.menu-icons{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
